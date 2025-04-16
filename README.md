@@ -1,4 +1,6 @@
 # Remoo — A game server written for MooMoo.io
+Discord (community): https://discord.gg/k62TF4NFjb
+
 This is a very early server that is just in alpha phase.
 
 # FEATURES
